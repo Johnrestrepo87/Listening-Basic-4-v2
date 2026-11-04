@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="r2qlGqPHYqNtI" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom:lom>
+			<lom:general>
+				<lom:title>
+					<lom:langstring>Listening Basic 4</lom:langstring>
+				</lom:title>
+			</lom:general>
+			<lom:educational>
+				<lom:typicallearningtime>
+				<lom:datetime>01:00:00</lom:datetime>
+				</lom:typicallearningtime>
+			</lom:educational>
+		</lom:lom>
+	</metadata>
+	<organizations default="listening_basic_4_organization">
+		<organization identifier="listening_basic_4_organization">
+
+			<title>Listening Basic 4</title>
+			<item identifier="C32B99C5-AF1F-417B-9D85-7570CA4539BB" identifierref="resource">
+				<title>Listening Basic 4</title>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+			<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/audios/snd-03bc75c356e71f5e7319eb6f84cc467c6e5b17d2.mp3"/>
+<file href="res/data/audios/snd-0b1b30b0104b11713f20da3c6203c1131ad0af11.mp3"/>
+<file href="res/data/audios/snd-1b9f313807af1db2b19b0bf3b169c411d779761a.mp3"/>
+<file href="res/data/audios/snd-1ec4c47ce53becc6a41e7057aa249e9a4cc9a698.mp3"/>
+<file href="res/data/audios/snd-2434bbdaf1e5c4b1607846526aa92789769042d8.mp3"/>
+<file href="res/data/audios/snd-3e97770f3dd2cc0fb3c860bf2379e81c07f14633.mp3"/>
+<file href="res/data/audios/snd-597c7c324c827de0adbbe6e31d5a7fb761f57be1.mp3"/>
+<file href="res/data/audios/snd-599d6ee7d2b43de715b836f7a682f663826d02b0.mp3"/>
+<file href="res/data/audios/snd-5cfd15ef354b2b5a9244b8265d5df34ed7ed2328.mp3"/>
+<file href="res/data/audios/snd-60da3b9118518ca80b4206bd84e61f0ea6d61699.mp3"/>
+<file href="res/data/audios/snd-61842b9b478be58f3b88bfebb502dcbde8c14dd9.mp3"/>
+<file href="res/data/audios/snd-6ebcc8d649eff451524d4fc7fb9b7994be387b5d.mp3"/>
+<file href="res/data/audios/snd-8587042d5112a5e4dce197f61226eff8b322841d.mp3"/>
+<file href="res/data/audios/snd-95e0c98fc64b41c411af1259d03dd443001e6308.mp3"/>
+<file href="res/data/audios/snd-975b9c9cb42a18f0db895a27209c0ab8142e2162.mp3"/>
+<file href="res/data/audios/snd-9e531bcec45588300591717033371efe26708b08.mp3"/>
+<file href="res/data/audios/snd-a98cff50c5ff280377a020bd249cc83074c44e5d.mp3"/>
+<file href="res/data/audios/snd-ad3edd1a240c0b0bd64cfd6c09ba4bbc5f1bd2b2.mp3"/>
+<file href="res/data/audios/snd-b039f048db324836d9d868db212b24e2e274f631.mp3"/>
+<file href="res/data/audios/snd-b4bcbc54eb9b024166e05506fdca13bc24c62c71.mp3"/>
+<file href="res/data/audios/snd-bf5fcb0296faed6751377823c5314426534a3746.mp3"/>
+<file href="res/data/audios/snd-cc63056f79b14b311022e5cfedcfc8750cd52450.mp3"/>
+<file href="res/data/audios/snd-fb269079a876eba35a84be914c14ce6583282993.mp3"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fonts/fnt0.woff"/>
+<file href="res/data/fonts/fnt1.woff"/>
+<file href="res/data/fonts/fnt2.woff"/>
+<file href="res/data/goodbye.html"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/lms.js"/>
+<file href="res/data/player.js"/>
+<file href="res/index.html"/>
+
+		</resource>
+	</resources>
+</manifest>
